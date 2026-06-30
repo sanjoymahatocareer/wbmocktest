@@ -1,0 +1,6 @@
+{
+  "name": "WBMockTest",
+  "description": "West Bengal Competitive Exams Prep Platform. Practice Mock Tests with detailed solutions, performance analytics, and dynamic study modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
